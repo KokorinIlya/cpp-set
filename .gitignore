@@ -301,3 +301,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.sln
+cpp-set/cpp-set.vcxproj
